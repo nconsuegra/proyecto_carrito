@@ -1,0 +1,116 @@
+body{
+  background: green;
+  max-height: 1px;
+}
+
+div{
+  width: 300px;
+  background: #FFFFB6C1;
+  border-width: medium;
+}
+
+img {
+  border-radius: 10px;
+  border:1px solid #000;
+}
+
+div h3 {
+  background: #DCA7F3;
+  width:300px;
+
+}
+
+input{
+  font-size: 18px;
+  margin-bottom: 1;
+  background: #006600;
+  cursor:pointer;
+}
+input:hover{
+  font-size: 22px;
+  background: #003300;
+  color: #fff;
+  box-shadow: 0px 2px 0px #1D64A9;
+}
+input:active{
+  box-shadow: none;
+}
+
+footer{
+  width: 90%;
+  max-width: 1000px;
+  margin: 20px auto;
+}
+
+}
+.menu{
+  width: 24.5%;
+  background:#000;
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+
+.menu li{
+  display: inline-block;
+}
+
+.menu li a{
+  display: inline-block;
+  padding: 10px 20px;
+  color:#fff;
+  text-decoration: none;
+}
+
+.menu li a:hover{
+  background: #ccc;
+  color: #000;
+
+}
+//*img:hover {
+  height: 220px;
+  width: 220px;
+}*//
+.logon {
+  width: 300px;
+}
+
+.valdin {
+  position:relative;
+  top:-723px;
+  bottom:;
+  right:;
+  left: 350px;
+  background: #FFFFB6C1;
+}
+
+.trapin {
+  position:relative;
+  top:-723px;
+  bottom:;
+  right:;
+  left: 350px;
+  background: #FFFFB6C1;
+}
+
+.pie{
+    position:relative;
+    top:-723px;
+    bottom:;
+    right:;
+    left: ;
+    background: #000;
+    color:#FFF;
+    text-align: center;
+}
+
+.totalpp {
+  position:relative;
+  top:-1223px;
+  bottom:;
+  right:;
+  left: 950px;
+
+  color:#000;
+  text-align: center;
+}
